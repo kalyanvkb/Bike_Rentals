@@ -1,5 +1,5 @@
 # Bike Rental data analysis
-> Dataset is provided with the Outline a brief description of your project.
+> Dataset is provided the statistics of the Bike rentals considering the variables like month, weekday, weather types, holidays etc. Aim is to prepare a multi variant regression model to understand the case study in detail and come up with predictions
 
 
 ## Table of Contents
@@ -11,10 +11,10 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Boombikes wants to get a deeper understanding of bike rentals under different circumstances to maximize the bike rentals.
+- Problem statement is to identify the factors that affect the demand of the bike rentals so that BookBikes would adjust the demand-supply of the bikes.
+- The solution is to develop a model that determines the importance of each factor(Variable) on the overall bike rental count
+- Bike sharing data set that contains the count of number of rides happend with all other promient factors along with the years.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -28,9 +28,10 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+Python - 3.11.5
+Pandas - 2.0.3
+matplotlib - 3.7.2
+seaborn - 0.12.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
