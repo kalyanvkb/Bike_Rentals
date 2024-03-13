@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike Rental data analysis
+> Dataset is provided with the Outline a brief description of your project.
 
 
 ## Table of Contents
