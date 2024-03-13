@@ -19,10 +19,10 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Bike rentals were increasing year on year
+- Bike rentals were decreasing in the Light Snow, Cloudy, winter  and even holidays
+- Bike rentals were more on Working day, in the month of september, weekday of Saturday
+- Spring has least number of rides across seasons whereas fall has more
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -37,17 +37,9 @@ seaborn - 0.12.2
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- This project was as part of the assignment done as a part of the upgrad ML program
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@kalyanvkb] - feel free to contact me!
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
